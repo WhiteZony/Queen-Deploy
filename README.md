@@ -19,7 +19,7 @@
 6. Copy Your Fork Queen-MD Repository Link or Genarate it Below
 7. 
 
-                          ``https://github.com/USER NAME/Queen-MD``
+                          `https://github.com/USER NAME/Queen-MD`
                           
                           
 
@@ -28,22 +28,16 @@
    
                           ```              SESSION_ID                ```
                           
-    
                           ```              OWNER_NAME                ```
                           
-   
                           ```              OWNER_NUMBER              ```
-                          
-
+                       
                           ```              PACK_NAME                 ```   
                           
-   
                           ```              STICKER_AUTHOR_NAME       ``` 
                           
-
                           ```              ANTICALL                  ```
                           
-
                           ```              PM_BLOCK                  ```
 
 9. Type HTTP port To 8000
