@@ -41,10 +41,10 @@
 ```                             STICKER_AUTHOR_NAME                    ``` 
                           
 
-```                              ANTICALL                               ```
+```                              ANTICALL                              ```
                          
                       
-```                              PM_BLOCK                               ```
+```                              PM_BLOCK                              ```
                           
 
 9. Type HTTP port To 8000
