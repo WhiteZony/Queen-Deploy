@@ -1,7 +1,7 @@
-
+<div align="center">
+   
 # How To Queen-MD Bot Deploy Mogenius
 
-<p align="center">
    
 1. First [Sign up to Github.](https://github.com/)
 
@@ -39,4 +39,4 @@
 9. Type HTTP port To 8000
 
 10. Select Creat Service Button And Enjoy Queen-MD Bot
-</p>
+ </div>
