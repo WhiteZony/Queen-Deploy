@@ -28,24 +28,30 @@
 8. Make Service And Add environment variables.
 
 
-```                             SESSION_ID                             ```
+```
+SESSION_ID                             
+```
                           
+```
+OWNER_NAME                             
+```
 
-```                             OWNER_NAME                             ```
+```                             
+OWNER_NUMBER                          
+```
 
+```                             
+PACK_NAME                              
+```   
                           
-```                             OWNER_NUMBER                           ```
-                       
-
-```                             PACK_NAME                              ```   
+```                             
+STICKER_AUTHOR_NAME                    
+``` 
                           
-
-```                             STICKER_AUTHOR_NAME                    ``` 
-                          
-
-```                              ANTICALL                              ```
+```                              
+ANTICALL                              
+```
                          
-                      
 ```                              
 PM_BLOCK                              
 ```
