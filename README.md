@@ -1,6 +1,7 @@
-<p align="center">
+
 # How To Queen-MD Bot Deploy Mogenius
 
+<p align="center">
 1. First [Sign up to Github.](https://github.com/)
 
 2. Fork Queen-MD repo Using Button Below.
