@@ -1,6 +1,6 @@
 <div align="center">
    
-# How To Queen-MD Bot Deploy Mogenius
+# deploy-mogenius
    
  </div>
    
