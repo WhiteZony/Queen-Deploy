@@ -23,7 +23,7 @@
  ```
  https://github.com/USER NAME/Queen-MD
  ```                        
-8. Make Service And Add environment variables.
+8. Make Service And Add Below environment variables Key.
 
 
 ```
