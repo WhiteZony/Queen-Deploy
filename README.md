@@ -25,25 +25,26 @@
 
 8. Make Service And Add environment variables.
 
-```                                      SESSION_ID                                      ```
+
+```                             SESSION_ID                             ```
                           
 
-```                                      OWNER_NAME                                      ```
+```                             OWNER_NAME                             ```
 
                           
-```                                      OWNER_NUMBER                                    ```
+```                             OWNER_NUMBER                           ```
                        
 
-```                                      PACK_NAME                                       ```   
+```                             PACK_NAME                              ```   
                           
 
-```                                      STICKER_AUTHOR_NAME                             ``` 
+```                             STICKER_AUTHOR_NAME                    ``` 
                           
 
-```                                      ANTICALL                                        ```
-                          
+```                              ANTICALL                               ```
+                         
                       
-```                                      PM_BLOCK                                         ```
+```                              PM_BLOCK                               ```
                           
 
 9. Type HTTP port To 8000
