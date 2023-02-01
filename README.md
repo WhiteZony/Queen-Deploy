@@ -53,3 +53,10 @@
 
 10. Select Creat Service Button And Enjoy Queen-MD Bot
  
+-----
+
+<div align="center">
+
+# deploy-replit
+
+</div>
